@@ -1,6 +1,6 @@
 # Software Construction: Introduction
 
-Author: Mahdi Aouchiche (<https://github.com/mahdi-aouchiche/software_construction_intro>)
+Author: Mahdi Aouchiche (<https://github.com/mahdi-aouchiche/software_construction_1_intro>)
 
 * Intro to good practices in software construction using C++ programming language in a Linux environment.
 * Create header directory for header files ".hpp": each class has its own .hpp file.
